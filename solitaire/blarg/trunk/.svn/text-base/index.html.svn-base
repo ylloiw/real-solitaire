@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>Documentation</title>
+	</head>
+	<body>
+		<h1>Documentation</h1><br/>
+		<a href="builderDoc/index.html">Builder Documentation</a><br/>
+		<a href="deckDoc/index.html">Deck Documentation</a><br/>
+		<a href="cardDoc/index.html">Card Documentation</a><br/><br/>
+		<h1>Live Examples</h1><br/>
+		<a href="klondike.html">Klondike Solitaire<a><br/>
+		<a href="war.html">War<a><br/><br/>
+		<a href="builder.html"><h1>Build Your Own</h1></a><br/><br/>
+		<a href="http://code.google.com/p/blarg/"><h2>Google Code</h2></a>
+	</body>
+</html>
